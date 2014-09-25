@@ -7,6 +7,11 @@
 //
 
 import UIKit
+enum ServerResponse {
+    case Result(String, String)
+    case Error(String)
+}
+
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
