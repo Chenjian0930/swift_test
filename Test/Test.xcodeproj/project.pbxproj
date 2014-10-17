@@ -36,6 +36,7 @@
 		74307B5119D259A20002495F /* TestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		74307B5619D259A20002495F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		74307B5719D259A20002495F /* TestTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestTests.swift; sourceTree = "<group>"; };
+		7467DEE619F0B7DB00EC5283 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +84,7 @@
 				74307B4819D259A10002495F /* Images.xcassets */,
 				74307B4A19D259A10002495F /* LaunchScreen.xib */,
 				74307B3F19D259A10002495F /* Supporting Files */,
+				7467DEE619F0B7DB00EC5283 /* MyPlayground.playground */,
 			);
 			path = Test;
 			sourceTree = "<group>";
